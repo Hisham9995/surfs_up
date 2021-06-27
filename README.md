@@ -19,7 +19,8 @@ In June  total count of 1700, mean of 74.9, min of 64.0 and max of 85.0  as Oahu
  ![](Resources/Dec.png)
 
 
-In December a total count of 1,517 observation, mean of 71.0, min of 56.0 and max of 83.0 This means that some temperature recordings is missing June and December are similar in
+In December a total count of 1,517 observation, mean of 71.0, min of 56.0 and max of 83.0 This means that some temperature recordings is missing ,
+June and December are similar in
 Average , Maximum and Minimum temerature 
 
 ## Summary
