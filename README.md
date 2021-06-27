@@ -24,5 +24,6 @@ June and December are similar in
 Average , Maximum and Minimum temerature 
 
 ## Summary
-We can tell By comparing the static summery  the Temperatures patterns seems steady  in Oahu  the surf and ice cream shop business will remain sustinable year-round
-If we are able to gain more data to make sure we have to run Additional queries  to know the population of Oahu and What natural disasters occurs in Oahu ? to descide the location of the shop approximetely how many visitors per day will have 
+We can tell By comparing the static summery  the Temperatures patterns seems steady  in Oahu , the surf and ice cream shop business will remain sustinable year-round,
+If we are able to gain more Information data to make sure , 
+We have to run Additional queries  to know the population of Oahu and What natural disasters occurs in Oahu ? to descide the location of the shop and approximetely how many visitors per day will have .
