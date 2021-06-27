@@ -25,5 +25,5 @@ Average , Maximum and Minimum temerature
 
 ## Summary
 We can tell By comparing the static summery  the Temperatures patterns seems steady  in Oahu , the surf and ice cream shop business will remain sustinable year-round,
-If we are able to gain more Information data to make sure , 
-We have to run Additional queries  to know the population of Oahu and What natural disasters occurs in Oahu ? to descide the location of the shop and approximetely how many visitors per day will have .
+If we are able to gain more Information data We can run Additional queries , By getting a statistically summary of the precipitation patterns during the months of June and December will make the picture more clear , another querry we can create about the stations the most active one and the closest one to the location 
+We can also run  queries  to know the population of Oahu and What natural disasters occurs in Oahu ? to descide the location of the shop and approximetely how many visitors per day will have .
